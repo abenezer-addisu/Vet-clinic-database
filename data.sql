@@ -1,5 +1,3 @@
-/* Populate database with sample data. */
-
 /* DAY 1 */
 
 INSERT INTO animals (
@@ -58,7 +56,7 @@ INSERT INTO animals (
 	11.0
 );
 
-/* DAY 2 */
+      /* day 2 */
 
 INSERT INTO animals (
 	name,
