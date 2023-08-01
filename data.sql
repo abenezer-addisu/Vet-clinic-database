@@ -1,4 +1,4 @@
-/* Populate database with sample data. well done */
+/* Populate database with sample data. */
 
 /* DAY 1 */
 
